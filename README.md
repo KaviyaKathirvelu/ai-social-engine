@@ -70,7 +70,7 @@ Ensure you have the following installed:
   ```Bash
   npm run dev
 ```
-6. *Open in Browser*
+6. **Open in Browser**
 
 Navigate to http://localhost:3000 in your web browser to test the application.
 
