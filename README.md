@@ -16,7 +16,7 @@ Transform raw concepts or draft notes into high-performing, formatted posts tail
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 
 
 - **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
 - **Language:** [TypeScript](https://www.typescriptlang.org/)
